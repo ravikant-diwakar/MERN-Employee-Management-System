@@ -18,7 +18,7 @@ A MERN stack application for managing employee data. This application allows use
 #### Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/employee-management-system.git
+    git clone https://github.com/ravikant-diwakar/MERN-Employee-Management-System
     ```
 2. Navigate to the project directory:
     ```bash
