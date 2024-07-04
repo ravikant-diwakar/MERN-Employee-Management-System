@@ -1,6 +1,5 @@
 ## Employee Management System
 
-#### Description
 A MERN stack application for managing employee data. This application allows users to add, edit, and delete employee information, including name, email, title, department, and role.
 
 #### Features
