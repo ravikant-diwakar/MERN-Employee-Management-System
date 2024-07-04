@@ -66,8 +66,4 @@ A MERN stack application for managing employee data. This application allows use
     ```
 5. Open a pull request.
 
-#### License
-This project is licensed under the MIT License.
-
-#### Contact
-For any questions or suggestions, please contact [your-email@example.com](mailto:your-email@example.com).
+---
